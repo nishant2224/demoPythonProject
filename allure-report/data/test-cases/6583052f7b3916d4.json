@@ -1,0 +1,163 @@
+{
+  "uid" : "6583052f7b3916d4",
+  "name" : "Catching data google search",
+  "fullName" : "Microsoft validation: Catching data google search",
+  "historyId" : "447198db308ae9fadfde1430d0671a16",
+  "time" : {
+    "start" : 1696939371673,
+    "stop" : 1696939390964,
+    "duration" : 19291
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given User navigates to google",
+      "time" : {
+        "start" : 1696939371674,
+        "stop" : 1696939379932,
+        "duration" : 8258
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I enter qa testing and search",
+      "time" : {
+        "start" : 1696939379933,
+        "stop" : 1696939388475,
+        "duration" : 8542
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Display the required information",
+      "time" : {
+        "start" : 1696939388475,
+        "stop" : 1696939388784,
+        "duration" : 309
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "Microsoft validation"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "10f314c4b859f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696939168913,
+        "stop" : 1696939192603,
+        "duration" : 23690
+      }
+    }, {
+      "uid" : "6e7762bbae3625a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696498996138,
+        "stop" : 1696499017509,
+        "duration" : 21371
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "6ad4978a590a07f9",
+        "reportUrl" : "http://localhost:9191/job/demoJobForPython/9/allure/#testresult/6ad4978a590a07f9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1696939168913,
+          "stop" : 1696939192603,
+          "duration" : 23690
+        }
+      }, {
+        "uid" : "f2223984b818f63b",
+        "reportUrl" : "http://localhost:9191/job/demoJobForPython/8/allure/#testresult/f2223984b818f63b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1696498996138,
+          "stop" : 1696499017509,
+          "duration" : 21371
+        }
+      }, {
+        "uid" : "4f694c02cee7999c",
+        "reportUrl" : "http://localhost:9191/job/demoJobForPython/6/allure/#testresult/4f694c02cee7999c",
+        "status" : "broken",
+        "statusDetails" : "KeyboardInterrupt\n",
+        "time" : {
+          "start" : 1696492008916,
+          "stop" : 1696492023327,
+          "duration" : 14411
+        }
+      }, {
+        "uid" : "228a0d2f606618c0",
+        "reportUrl" : "http://localhost:9191/job/demoJobForPython/5/allure/#testresult/228a0d2f606618c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1696491543668,
+          "stop" : 1696491561763,
+          "duration" : 18095
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6583052f7b3916d4.json",
+  "parameterValues" : [ ]
+}

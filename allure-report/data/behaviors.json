@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Microsoft validation",
+    "children" : [ {
+      "name" : "Catching data google search",
+      "uid" : "6583052f7b3916d4",
+      "parentUid" : "b180e4260789a88ec0cb97026fb1bdf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696939371673,
+        "stop" : 1696939390964,
+        "duration" : 19291
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b180e4260789a88ec0cb97026fb1bdf2"
+  } ]
+}

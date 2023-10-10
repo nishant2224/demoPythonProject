@@ -1,0 +1,11 @@
+[ {
+  "uid" : "6583052f7b3916d4",
+  "name" : "Catching data google search",
+  "time" : {
+    "start" : 1696939371673,
+    "stop" : 1696939390964,
+    "duration" : 19291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

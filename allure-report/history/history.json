@@ -1,0 +1,157 @@
+{
+  "4215a86af68269d912f12b2f6374d094" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "7171a3bce3054908",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/5/allure/#testresult/7171a3bce3054908",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\n\tGetHandleVerifier [0x00007FF7B8A30E42+59378]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BA302+259554]\n\t(No symbol) [0x00007FF7B877AB4E]\n\t(No symbol) [0x00007FF7B87CB353]\n\t(No symbol) [0x00007FF7B87CB464]\n\t(No symbol) [0x00007FF7B8809897]\n\t(No symbol) [0x00007FF7B87EC6FF]\n\t(No symbol) [0x00007FF7B87BEAF1]\n\t(No symbol) [0x00007FF7B8806911]\n\t(No symbol) [0x00007FF7B87EC493]\n\t(No symbol) [0x00007FF7B87BD91A]\n\t(No symbol) [0x00007FF7B87BCC0B]\n\t(No symbol) [0x00007FF7B87BE0A4]\n\tMicrosoft::Applications::Events::EventProperty::to_string [0x00007FF7B8BF0019+1187993]\n\t(No symbol) [0x00007FF7B883A1E4]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7B88FE12A+34122]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7B88F69F9+3609]\n\tMicrosoft::Applications::Events::EventProperty::to_string [0x00007FF7B8BEEDB4+1183284]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89C4458+300856]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BEF94+279156]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BF0C2+279458]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89B29C1+228513]\n\tBaseThreadInitThunk [0x00007FFE1F6F7344+20]\n\tRtlUserThreadStart [0x00007FFE1FB826B1+33]\n\n",
+      "time" : {
+        "start" : 1696319552429,
+        "stop" : 1696319600827,
+        "duration" : 48398
+      }
+    }, {
+      "uid" : "2a1b275c69a41b79",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/4/allure/#testresult/2a1b275c69a41b79",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\n\tGetHandleVerifier [0x00007FF7B8A30E42+59378]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BA302+259554]\n\t(No symbol) [0x00007FF7B877AB4E]\n\t(No symbol) [0x00007FF7B87CB353]\n\t(No symbol) [0x00007FF7B87CB464]\n\t(No symbol) [0x00007FF7B8809897]\n\t(No symbol) [0x00007FF7B87EC6FF]\n\t(No symbol) [0x00007FF7B87BEAF1]\n\t(No symbol) [0x00007FF7B8806911]\n\t(No symbol) [0x00007FF7B87EC493]\n\t(No symbol) [0x00007FF7B87BD91A]\n\t(No symbol) [0x00007FF7B87BCC0B]\n\t(No symbol) [0x00007FF7B87BE0A4]\n\tMicrosoft::Applications::Events::EventProperty::to_string [0x00007FF7B8BF0019+1187993]\n\t(No symbol) [0x00007FF7B883A1E4]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7B88FE12A+34122]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7B88F69F9+3609]\n\tMicrosoft::Applications::Events::EventProperty::to_string [0x00007FF7B8BEEDB4+1183284]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89C4458+300856]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BEF94+279156]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BF0C2+279458]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89B29C1+228513]\n\tBaseThreadInitThunk [0x00007FFE1F6F7344+20]\n\tRtlUserThreadStart [0x00007FFE1FB826B1+33]\n\n",
+      "time" : {
+        "start" : 1696319552429,
+        "stop" : 1696319600827,
+        "duration" : 48398
+      }
+    }, {
+      "uid" : "51dc42534cce6fc2",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/3/allure/#testresult/51dc42534cce6fc2",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\n\tGetHandleVerifier [0x00007FF7B8A30E42+59378]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BA302+259554]\n\t(No symbol) [0x00007FF7B877AB4E]\n\t(No symbol) [0x00007FF7B87CB353]\n\t(No symbol) [0x00007FF7B87CB464]\n\t(No symbol) [0x00007FF7B8809897]\n\t(No symbol) [0x00007FF7B87EC6FF]\n\t(No symbol) [0x00007FF7B87BEAF1]\n\t(No symbol) [0x00007FF7B8806911]\n\t(No symbol) [0x00007FF7B87EC493]\n\t(No symbol) [0x00007FF7B87BD91A]\n\t(No symbol) [0x00007FF7B87BCC0B]\n\t(No symbol) [0x00007FF7B87BE0A4]\n\tMicrosoft::Applications::Events::EventProperty::to_string [0x00007FF7B8BF0019+1187993]\n\t(No symbol) [0x00007FF7B883A1E4]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7B88FE12A+34122]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7B88F69F9+3609]\n\tMicrosoft::Applications::Events::EventProperty::to_string [0x00007FF7B8BEEDB4+1183284]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89C4458+300856]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BEF94+279156]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BF0C2+279458]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89B29C1+228513]\n\tBaseThreadInitThunk [0x00007FFE1F6F7344+20]\n\tRtlUserThreadStart [0x00007FFE1FB826B1+33]\n\n",
+      "time" : {
+        "start" : 1696319552429,
+        "stop" : 1696319600827,
+        "duration" : 48398
+      }
+    }, {
+      "uid" : "411dc9097eaa3094",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/1/allure/#testresult/411dc9097eaa3094",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\n\tGetHandleVerifier [0x00007FF7B8A30E42+59378]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BA302+259554]\n\t(No symbol) [0x00007FF7B877AB4E]\n\t(No symbol) [0x00007FF7B87CB353]\n\t(No symbol) [0x00007FF7B87CB464]\n\t(No symbol) [0x00007FF7B8809897]\n\t(No symbol) [0x00007FF7B87EC6FF]\n\t(No symbol) [0x00007FF7B87BEAF1]\n\t(No symbol) [0x00007FF7B8806911]\n\t(No symbol) [0x00007FF7B87EC493]\n\t(No symbol) [0x00007FF7B87BD91A]\n\t(No symbol) [0x00007FF7B87BCC0B]\n\t(No symbol) [0x00007FF7B87BE0A4]\n\tMicrosoft::Applications::Events::EventProperty::to_string [0x00007FF7B8BF0019+1187993]\n\t(No symbol) [0x00007FF7B883A1E4]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7B88FE12A+34122]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7B88F69F9+3609]\n\tMicrosoft::Applications::Events::EventProperty::to_string [0x00007FF7B8BEEDB4+1183284]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89C4458+300856]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BEF94+279156]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89BF0C2+279458]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7B89B29C1+228513]\n\tBaseThreadInitThunk [0x00007FFE1F6F7344+20]\n\tRtlUserThreadStart [0x00007FFE1FB826B1+33]\n\n",
+      "time" : {
+        "start" : 1696319552429,
+        "stop" : 1696319600827,
+        "duration" : 48398
+      }
+    } ]
+  },
+  "447198db308ae9fadfde1430d0671a16" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "6583052f7b3916d4",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/10/allure/#testresult/6583052f7b3916d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696939371673,
+        "stop" : 1696939390964,
+        "duration" : 19291
+      }
+    }, {
+      "uid" : "6ad4978a590a07f9",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/9/allure/#testresult/6ad4978a590a07f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696939168913,
+        "stop" : 1696939192603,
+        "duration" : 23690
+      }
+    }, {
+      "uid" : "f2223984b818f63b",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/8/allure/#testresult/f2223984b818f63b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696498996138,
+        "stop" : 1696499017509,
+        "duration" : 21371
+      }
+    }, {
+      "uid" : "4f694c02cee7999c",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/6/allure/#testresult/4f694c02cee7999c",
+      "status" : "broken",
+      "statusDetails" : "KeyboardInterrupt\n",
+      "time" : {
+        "start" : 1696492008916,
+        "stop" : 1696492023327,
+        "duration" : 14411
+      }
+    }, {
+      "uid" : "228a0d2f606618c0",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/5/allure/#testresult/228a0d2f606618c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696491543668,
+        "stop" : 1696491561763,
+        "duration" : 18095
+      }
+    } ]
+  },
+  "d0dc3e64fc0da9a12ca10b54329d0b2c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "6f698f7381177a01",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/5/allure/#testresult/6f698f7381177a01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696491422625,
+        "stop" : 1696491441679,
+        "duration" : 19054
+      }
+    }, {
+      "uid" : "bd365a59051de2c3",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/4/allure/#testresult/bd365a59051de2c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696491422625,
+        "stop" : 1696491441679,
+        "duration" : 19054
+      }
+    }, {
+      "uid" : "7cf8df5b0de4f8e0",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/3/allure/#testresult/7cf8df5b0de4f8e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696491131644,
+        "stop" : 1696491178351,
+        "duration" : 46707
+      }
+    }, {
+      "uid" : "863a587cb54f1e7a",
+      "reportUrl" : "http://localhost:9191/job/demoJobForPython/1/allure/#testresult/863a587cb54f1e7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1696486790032,
+        "stop" : 1696486815621,
+        "duration" : 25589
+      }
+    } ]
+  }
+}
